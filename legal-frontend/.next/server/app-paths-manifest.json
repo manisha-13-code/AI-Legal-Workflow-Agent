@@ -1,0 +1,5 @@
+{
+  "/copilot/page": "app/copilot/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/cases/page": "app/cases/page.js"
+}
